@@ -13,11 +13,11 @@ Institut prospère
 #### 3 years of experience through personal projects using:
   - Python (Pandas, Numpy, Scikit-learn, TensorFlow, PyTorch)
   - Data Visualization (Matplotlib, Seaborn)
-  - Machine Learning (Supervised & Unsupervised Learnings)
+  - Machine Learning (Supervised & Unsupervised Learning)
   - Deep Learning
   - NLP (spaCy & NLTK)
-#### 7 years of experience in Data Management using (in a humanitarian NGO):
-  - Google docs
+### 7 years of experience in Data Management using (in a humanitarian NGO):
+  - Google Docs
   - Google sheet
   - Dashboard
 
